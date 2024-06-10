@@ -45,9 +45,6 @@
                     <includes>
                         <include>**/*Runner.java</include>
                     </includes>
-<!--                    <suiteXmlFiles>&ndash;&gt;-->
-<!--                        <suiteXmlFile>testNG.xml</suiteXmlFile>-->
-<!--                    </suiteXmlFiles>-->
                 </configuration>
             </plugin>
             <plugin>
