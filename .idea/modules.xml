@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/CucumberJavaTestngJava.iml" filepath="$PROJECT_DIR$/.idea/CucumberJavaTestngJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CucumberjavaMavenTestNGPrj.iml" filepath="$PROJECT_DIR$/CucumberjavaMavenTestNGPrj.iml" />
     </modules>
   </component>
 </project>
