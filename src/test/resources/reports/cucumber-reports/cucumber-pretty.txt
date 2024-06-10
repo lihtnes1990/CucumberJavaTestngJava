@@ -1,0 +1,6 @@
+
+Scenario: Verify the home page # src/test/java/features/homepage.feature:2
+  Given I load the page
+  When I see the page
+  And I click on the link
+  Then I verify the option
